@@ -7,6 +7,12 @@ Develop a long-term, AI-assisted learning programme based initially on Tom Cunli
 1. Prepare progressively for an RYA Yachtmaster qualification, potentially Yachtmaster Coastal or Offshore.
 2. Develop the understanding, practical judgement and decision-making skills needed for safe, competent real-world sailing.
 
+The ultimate curriculum target is comprehensive coverage of the official RYA Yachtmaster syllabus for the qualification selected. That syllabus will define the required scope and provide the benchmark for assessing coverage and identifying gaps.
+
+Tom Cunliffe’s *The Complete Yachtmaster* will provide the initial reading sequence and a principal learning resource. The programme will supplement it wherever necessary to cover syllabus requirements.
+
+Conceptual understanding, realistic sailing scenarios and practical judgement will be the principal ways of learning and applying that material. The programme will track theoretical understanding separately from practical competence.
+
 The programme should be enjoyable, sustainable and adapted to my particular learning characteristics. It should evolve through experimentation rather than being fully specified at the outset.
 
 ## 1. Personal learning characteristics
@@ -81,7 +87,7 @@ This includes:
 - Command decisions and crew management
 - Other requirements of the relevant RYA syllabus
 
-The programme should eventually be mapped explicitly to the official RYA syllabus, identifying areas of adequate coverage and areas requiring further work.
+The programme should be progressively mapped from the outset to the official RYA Yachtmaster syllabus for the qualification selected, identifying areas of adequate coverage and areas requiring further work. Selecting Yachtmaster Coastal or Offshore will determine the precise syllabus used as the benchmark.
 
 Knowledge and practical competence should be tracked separately. Answering questions correctly does not establish the ability to perform a manoeuvre aboard a yacht.
 
@@ -100,7 +106,7 @@ The AI may not have access to the complete text. Consequently:
 - AI can generate questions using its general knowledge of the subject.
 - Where exact correspondence with Cunliffe's treatment matters, we should verify against the text.
 
-The book provides the initial curriculum, but the programme need not be confined to its contents.
+The book provides the initial reading sequence; the official RYA syllabus defines the ultimate curriculum scope. Material beyond the book should be added wherever needed to cover syllabus requirements.
 
 ## 4. Question bank
 
@@ -209,11 +215,11 @@ Repeated success should generally reduce review frequency. Difficulty or uncerta
 
 However, repetition should not consist solely of presenting identical questions. Alternative formulations and scenarios should test whether the underlying understanding transfers to new situations.
 
-## 8. Progressive chapter coverage
+## 8. Progressive chapter and syllabus coverage
 
 The programme should distinguish between two separate measures:
 
-**Coverage:** How comprehensively has the material in a chapter been sampled?
+**Coverage:** How comprehensively has the material in a chapter been sampled, and how much of the selected official RYA syllabus has been addressed? Chapter coverage and syllabus coverage should be tracked separately so that gaps outside the book remain visible.
 
 **Mastery:** How reliably can the learner understand, recall and apply the material that has been sampled?
 
@@ -222,13 +228,14 @@ High scores on a small question bank do not necessarily demonstrate mastery of a
 The intended process is therefore iterative:
 
 1. Read a chapter or section.
-2. Establish the important concepts and learning objectives.
+2. Establish the important concepts and learning objectives, and map them to the relevant syllabus requirements.
 3. Generate an initial question bank.
 4. Complete short assessments.
 5. Identify weaknesses and misunderstandings.
 6. Refine or expand the questions.
 7. Progress to additional chapters.
 8. Periodically revisit earlier chapters to increase both coverage and mastery.
+9. Review syllabus coverage and add material for requirements not adequately addressed by the chapters studied.
 
 Over time, the questions should increasingly connect material from multiple chapters.
 
@@ -277,7 +284,7 @@ It should:
 
 - Maintain a persistent question bank.
 - Record responses and confidence.
-- Track chapters, concepts, coverage and mastery.
+- Track chapters, concepts, official syllabus requirements, coverage and mastery.
 - Select questions adaptively.
 - Apply spaced repetition.
 - Introduce cross-topic questions.
@@ -333,7 +340,7 @@ Several decisions remain open:
 - How much reasoning should be requested after answers.
 - How best to distinguish conceptual difficulty from memory difficulty.
 - How to record confidence without adding friction.
-- How to measure chapter coverage.
+- How to measure chapter coverage and official syllabus coverage.
 - How to connect the learning programme to actual sailing.
 - What form of reminders and persistent storage will work best.
 
