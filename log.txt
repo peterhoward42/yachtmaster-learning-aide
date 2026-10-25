@@ -1,5 +1,10 @@
 yachting
 
+o  do a new section
+	*  build a content map and density map
+	o  choose addressing and move / rename first pass accordingly
+	o  make next section stab for a similar sized subsection elsewhere
+
 
 Read /Users/pete/repos/yachtmaster-learning-aide
 Then assess my answers to your questions in aids-to-navigation-experiment-01.md

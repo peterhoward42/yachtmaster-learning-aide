@@ -1,0 +1,2583 @@
+{
+  "edition": "10th (2021)",
+  "source": "https://api.pageplace.de/preview/DT0400.9781472982971_A42450030/preview-9781472982971_A42450030.pdf",
+  "status": "provisional structural model; contents verified, section lengths inferred",
+  "chapters": [
+    {
+      "id": "C01",
+      "number": 1,
+      "title": "The skipper",
+      "start_page": 4,
+      "end_page_exclusive": 7,
+      "pages": 3,
+      "listed_subsections": 0,
+      "first_pass_questions": 6,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Whole chapter (no subsections listed)",
+          "start_page": 4,
+          "kind": "whole_chapter",
+          "id": "C01.S01",
+          "page_group_end_exclusive": 7,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "number": 2,
+      "title": "The theory of sailing",
+      "start_page": 7,
+      "end_page_exclusive": 13,
+      "pages": 6,
+      "listed_subsections": 1,
+      "first_pass_questions": 9,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 7,
+          "kind": "opening",
+          "id": "C02.S01",
+          "page_group_end_exclusive": 8,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Sails",
+          "start_page": 8,
+          "kind": "listed_subsection",
+          "id": "C02.S02",
+          "page_group_end_exclusive": 13,
+          "shared_start": false,
+          "page_weight": 5.0,
+          "first_pass_questions": 6
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "number": 3,
+      "title": "Efficient sailing",
+      "start_page": 13,
+      "end_page_exclusive": 23,
+      "pages": 10,
+      "listed_subsections": 7,
+      "first_pass_questions": 15,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 13,
+          "kind": "opening",
+          "id": "C03.S01",
+          "page_group_end_exclusive": 14,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Shaping the headsail",
+          "start_page": 14,
+          "kind": "listed_subsection",
+          "id": "C03.S02",
+          "page_group_end_exclusive": 17,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Shaping the mainsail",
+          "start_page": 17,
+          "kind": "listed_subsection",
+          "id": "C03.S03",
+          "page_group_end_exclusive": 18,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Sail combinations",
+          "start_page": 18,
+          "kind": "listed_subsection",
+          "id": "C03.S04",
+          "page_group_end_exclusive": 19,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Hull balance",
+          "start_page": 19,
+          "kind": "listed_subsection",
+          "id": "C03.S05",
+          "page_group_end_exclusive": 21,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Shortening sail",
+          "start_page": 19,
+          "kind": "listed_subsection",
+          "id": "C03.S06",
+          "page_group_end_exclusive": 21,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "‘Code zero’ sails",
+          "start_page": 21,
+          "kind": "listed_subsection",
+          "id": "C03.S07",
+          "page_group_end_exclusive": 22,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Cruising chutes",
+          "start_page": 22,
+          "kind": "listed_subsection",
+          "id": "C03.S08",
+          "page_group_end_exclusive": 23,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "number": 4,
+      "title": "Basic seamanship under sail",
+      "start_page": 23,
+      "end_page_exclusive": 35,
+      "pages": 12,
+      "listed_subsections": 10,
+      "first_pass_questions": 18,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Tacking",
+          "start_page": 23,
+          "kind": "listed_subsection",
+          "id": "C04.S01",
+          "page_group_end_exclusive": 24,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Gybing",
+          "start_page": 24,
+          "kind": "listed_subsection",
+          "id": "C04.S02",
+          "page_group_end_exclusive": 26,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Poling out a genoa",
+          "start_page": 26,
+          "kind": "listed_subsection",
+          "id": "C04.S03",
+          "page_group_end_exclusive": 28,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Painless sail reduction",
+          "start_page": 28,
+          "kind": "listed_subsection",
+          "id": "C04.S04",
+          "page_group_end_exclusive": 30,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Heaving to",
+          "start_page": 28,
+          "kind": "listed_subsection",
+          "id": "C04.S05",
+          "page_group_end_exclusive": 30,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Reefing",
+          "start_page": 30,
+          "kind": "listed_subsection",
+          "id": "C04.S06",
+          "page_group_end_exclusive": 32,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Single-line reefing",
+          "start_page": 32,
+          "kind": "listed_subsection",
+          "id": "C04.S07",
+          "page_group_end_exclusive": 33,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "In-mast mainsails",
+          "start_page": 32,
+          "kind": "listed_subsection",
+          "id": "C04.S08",
+          "page_group_end_exclusive": 33,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "In-boom mainsails",
+          "start_page": 32,
+          "kind": "listed_subsection",
+          "id": "C04.S09",
+          "page_group_end_exclusive": 33,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Headsail changes",
+          "start_page": 33,
+          "kind": "listed_subsection",
+          "id": "C04.S10",
+          "page_group_end_exclusive": 35,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "number": 5,
+      "title": "Boat handling under sail",
+      "start_page": 35,
+      "end_page_exclusive": 44,
+      "pages": 9,
+      "listed_subsections": 7,
+      "first_pass_questions": 14,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "No brakes",
+          "start_page": 35,
+          "kind": "listed_subsection",
+          "id": "C05.S01",
+          "page_group_end_exclusive": 36,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Wind awareness",
+          "start_page": 36,
+          "kind": "listed_subsection",
+          "id": "C05.S02",
+          "page_group_end_exclusive": 37,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Tide awareness",
+          "start_page": 36,
+          "kind": "listed_subsection",
+          "id": "C05.S03",
+          "page_group_end_exclusive": 37,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Sailing slowly",
+          "start_page": 37,
+          "kind": "listed_subsection",
+          "id": "C05.S04",
+          "page_group_end_exclusive": 38,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Mooring under sail",
+          "start_page": 38,
+          "kind": "listed_subsection",
+          "id": "C05.S05",
+          "page_group_end_exclusive": 42,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Anchoring",
+          "start_page": 42,
+          "kind": "listed_subsection",
+          "id": "C05.S06",
+          "page_group_end_exclusive": 44,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Berthing",
+          "start_page": 42,
+          "kind": "listed_subsection",
+          "id": "C05.S07",
+          "page_group_end_exclusive": 44,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "number": 6,
+      "title": "Boat handling under power",
+      "start_page": 44,
+      "end_page_exclusive": 60,
+      "pages": 16,
+      "listed_subsections": 11,
+      "first_pass_questions": 24,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Pivoting",
+          "start_page": 44,
+          "kind": "listed_subsection",
+          "id": "C06.S01",
+          "page_group_end_exclusive": 45,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Blowing off",
+          "start_page": 44,
+          "kind": "listed_subsection",
+          "id": "C06.S02",
+          "page_group_end_exclusive": 45,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Rudder effect",
+          "start_page": 45,
+          "kind": "listed_subsection",
+          "id": "C06.S03",
+          "page_group_end_exclusive": 46,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Propeller effects",
+          "start_page": 46,
+          "kind": "listed_subsection",
+          "id": "C06.S04",
+          "page_group_end_exclusive": 47,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Moving ahead",
+          "start_page": 47,
+          "kind": "listed_subsection",
+          "id": "C06.S05",
+          "page_group_end_exclusive": 48,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The set piece short turn",
+          "start_page": 47,
+          "kind": "listed_subsection",
+          "id": "C06.S06",
+          "page_group_end_exclusive": 48,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Motoring astern",
+          "start_page": 48,
+          "kind": "listed_subsection",
+          "id": "C06.S07",
+          "page_group_end_exclusive": 49,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Berthing",
+          "start_page": 49,
+          "kind": "listed_subsection",
+          "id": "C06.S08",
+          "page_group_end_exclusive": 54,
+          "shared_start": false,
+          "page_weight": 5.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Coming alongside",
+          "start_page": 54,
+          "kind": "listed_subsection",
+          "id": "C06.S09",
+          "page_group_end_exclusive": 58,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Leaving an alongside berth",
+          "start_page": 58,
+          "kind": "listed_subsection",
+          "id": "C06.S10",
+          "page_group_end_exclusive": 59,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Bow thrusters",
+          "start_page": 59,
+          "kind": "listed_subsection",
+          "id": "C06.S11",
+          "page_group_end_exclusive": 60,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "number": 7,
+      "title": "Ropes and ropework",
+      "start_page": 60,
+      "end_page_exclusive": 73,
+      "pages": 13,
+      "listed_subsections": 9,
+      "first_pass_questions": 20,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Types of rope",
+          "start_page": 60,
+          "kind": "listed_subsection",
+          "id": "C07.S01",
+          "page_group_end_exclusive": 61,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Wire halyards",
+          "start_page": 61,
+          "kind": "listed_subsection",
+          "id": "C07.S02",
+          "page_group_end_exclusive": 62,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Knots, splices and whippings",
+          "start_page": 62,
+          "kind": "listed_subsection",
+          "id": "C07.S03",
+          "page_group_end_exclusive": 65,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Eyes and ends",
+          "start_page": 65,
+          "kind": "listed_subsection",
+          "id": "C07.S04",
+          "page_group_end_exclusive": 66,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Rope handling",
+          "start_page": 66,
+          "kind": "listed_subsection",
+          "id": "C07.S05",
+          "page_group_end_exclusive": 68,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Securing the yacht",
+          "start_page": 68,
+          "kind": "listed_subsection",
+          "id": "C07.S06",
+          "page_group_end_exclusive": 69,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Coming alongside",
+          "start_page": 69,
+          "kind": "listed_subsection",
+          "id": "C07.S07",
+          "page_group_end_exclusive": 70,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Towing",
+          "start_page": 70,
+          "kind": "listed_subsection",
+          "id": "C07.S08",
+          "page_group_end_exclusive": 72,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Towing with the dinghy",
+          "start_page": 72,
+          "kind": "listed_subsection",
+          "id": "C07.S09",
+          "page_group_end_exclusive": 73,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "number": 8,
+      "title": "Anchoring",
+      "start_page": 73,
+      "end_page_exclusive": 88,
+      "pages": 15,
+      "listed_subsections": 11,
+      "first_pass_questions": 23,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 73,
+          "kind": "opening",
+          "id": "C08.S01",
+          "page_group_end_exclusive": 74,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Holding ground",
+          "start_page": 74,
+          "kind": "listed_subsection",
+          "id": "C08.S02",
+          "page_group_end_exclusive": 76,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Types of anchor",
+          "start_page": 74,
+          "kind": "listed_subsection",
+          "id": "C08.S03",
+          "page_group_end_exclusive": 76,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Types of cable",
+          "start_page": 76,
+          "kind": "listed_subsection",
+          "id": "C08.S04",
+          "page_group_end_exclusive": 77,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Weighting the cable",
+          "start_page": 77,
+          "kind": "listed_subsection",
+          "id": "C08.S05",
+          "page_group_end_exclusive": 78,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Selecting an anchorage",
+          "start_page": 78,
+          "kind": "listed_subsection",
+          "id": "C08.S06",
+          "page_group_end_exclusive": 79,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Laying an anchor",
+          "start_page": 79,
+          "kind": "listed_subsection",
+          "id": "C08.S07",
+          "page_group_end_exclusive": 82,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Weighing anchor",
+          "start_page": 82,
+          "kind": "listed_subsection",
+          "id": "C08.S08",
+          "page_group_end_exclusive": 83,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Fouled anchors",
+          "start_page": 83,
+          "kind": "listed_subsection",
+          "id": "C08.S09",
+          "page_group_end_exclusive": 85,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Anchoring stern- or bow-to",
+          "start_page": 85,
+          "kind": "listed_subsection",
+          "id": "C08.S10",
+          "page_group_end_exclusive": 86,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Kedging off",
+          "start_page": 86,
+          "kind": "listed_subsection",
+          "id": "C08.S11",
+          "page_group_end_exclusive": 88,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Storm anchoring",
+          "start_page": 86,
+          "kind": "listed_subsection",
+          "id": "C08.S12",
+          "page_group_end_exclusive": 88,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "number": 9,
+      "title": "Yacht engines",
+      "start_page": 88,
+      "end_page_exclusive": 95,
+      "pages": 7,
+      "listed_subsections": 3,
+      "first_pass_questions": 11,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Basic maintenance",
+          "start_page": 88,
+          "kind": "listed_subsection",
+          "id": "C09.S01",
+          "page_group_end_exclusive": 90,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Trouble shooting",
+          "start_page": 90,
+          "kind": "listed_subsection",
+          "id": "C09.S02",
+          "page_group_end_exclusive": 92,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Fuel problems",
+          "start_page": 92,
+          "kind": "listed_subsection",
+          "id": "C09.S03",
+          "page_group_end_exclusive": 95,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "number": 10,
+      "title": "Sailing in heavy weather",
+      "start_page": 95,
+      "end_page_exclusive": 103,
+      "pages": 8,
+      "listed_subsections": 4,
+      "first_pass_questions": 12,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 95,
+          "kind": "opening",
+          "id": "C10.S01",
+          "page_group_end_exclusive": 96,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Preparing the boat",
+          "start_page": 96,
+          "kind": "listed_subsection",
+          "id": "C10.S02",
+          "page_group_end_exclusive": 98,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Sails",
+          "start_page": 96,
+          "kind": "listed_subsection",
+          "id": "C10.S03",
+          "page_group_end_exclusive": 98,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Steering in waves",
+          "start_page": 98,
+          "kind": "listed_subsection",
+          "id": "C10.S04",
+          "page_group_end_exclusive": 100,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Survival tactics",
+          "start_page": 100,
+          "kind": "listed_subsection",
+          "id": "C10.S05",
+          "page_group_end_exclusive": 103,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "number": 11,
+      "title": "Navigation – an introduction",
+      "start_page": 103,
+      "end_page_exclusive": 107,
+      "pages": 4,
+      "listed_subsections": 0,
+      "first_pass_questions": 6,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Whole chapter (no subsections listed)",
+          "start_page": 103,
+          "kind": "whole_chapter",
+          "id": "C11.S01",
+          "page_group_end_exclusive": 107,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 4
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "number": 12,
+      "title": "Charts, publications and chart table tools",
+      "start_page": 107,
+      "end_page_exclusive": 119,
+      "pages": 12,
+      "listed_subsections": 13,
+      "first_pass_questions": 18,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Latitude, longitude and the globe",
+          "start_page": 107,
+          "kind": "listed_subsection",
+          "id": "C12.S01",
+          "page_group_end_exclusive": 108,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Chart projections",
+          "start_page": 108,
+          "kind": "listed_subsection",
+          "id": "C12.S02",
+          "page_group_end_exclusive": 110,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Direction",
+          "start_page": 110,
+          "kind": "listed_subsection",
+          "id": "C12.S03",
+          "page_group_end_exclusive": 111,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Scale and passage requirements",
+          "start_page": 110,
+          "kind": "listed_subsection",
+          "id": "C12.S04",
+          "page_group_end_exclusive": 111,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Chart symbols",
+          "start_page": 111,
+          "kind": "listed_subsection",
+          "id": "C12.S05",
+          "page_group_end_exclusive": 113,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Other information on the chart",
+          "start_page": 113,
+          "kind": "listed_subsection",
+          "id": "C12.S06",
+          "page_group_end_exclusive": 114,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Chart datums",
+          "start_page": 113,
+          "kind": "listed_subsection",
+          "id": "C12.S07",
+          "page_group_end_exclusive": 114,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Yachting charts",
+          "start_page": 114,
+          "kind": "listed_subsection",
+          "id": "C12.S08",
+          "page_group_end_exclusive": 115,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Electronic charts",
+          "start_page": 114,
+          "kind": "listed_subsection",
+          "id": "C12.S09",
+          "page_group_end_exclusive": 115,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Chart corrections",
+          "start_page": 115,
+          "kind": "listed_subsection",
+          "id": "C12.S10",
+          "page_group_end_exclusive": 116,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The Nautical Almanac",
+          "start_page": 116,
+          "kind": "listed_subsection",
+          "id": "C12.S11",
+          "page_group_end_exclusive": 118,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Pilot books and sailing directions",
+          "start_page": 116,
+          "kind": "listed_subsection",
+          "id": "C12.S12",
+          "page_group_end_exclusive": 118,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Chart table tools",
+          "start_page": 118,
+          "kind": "listed_subsection",
+          "id": "C12.S13",
+          "page_group_end_exclusive": 119,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "number": 13,
+      "title": "Aids to navigation",
+      "start_page": 119,
+      "end_page_exclusive": 127,
+      "pages": 8,
+      "listed_subsections": 3,
+      "first_pass_questions": 12,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 119,
+          "kind": "opening",
+          "id": "C13.S01",
+          "page_group_end_exclusive": 120,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Lighthouses",
+          "start_page": 120,
+          "kind": "listed_subsection",
+          "id": "C13.S02",
+          "page_group_end_exclusive": 123,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Offshore marks",
+          "start_page": 123,
+          "kind": "listed_subsection",
+          "id": "C13.S03",
+          "page_group_end_exclusive": 124,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Inshore marks",
+          "start_page": 124,
+          "kind": "listed_subsection",
+          "id": "C13.S04",
+          "page_group_end_exclusive": 127,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "number": 14,
+      "title": "Tidal heights",
+      "start_page": 127,
+      "end_page_exclusive": 143,
+      "pages": 16,
+      "listed_subsections": 9,
+      "first_pass_questions": 24,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 127,
+          "kind": "opening",
+          "id": "C14.S01",
+          "page_group_end_exclusive": 129,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Tide tables",
+          "start_page": 129,
+          "kind": "listed_subsection",
+          "id": "C14.S02",
+          "page_group_end_exclusive": 132,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Times",
+          "start_page": 129,
+          "kind": "listed_subsection",
+          "id": "C14.S03",
+          "page_group_end_exclusive": 132,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Secondary ports",
+          "start_page": 129,
+          "kind": "listed_subsection",
+          "id": "C14.S04",
+          "page_group_end_exclusive": 132,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Tidal definitions",
+          "start_page": 132,
+          "kind": "listed_subsection",
+          "id": "C14.S05",
+          "page_group_end_exclusive": 134,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Intermediate tidal heights",
+          "start_page": 134,
+          "kind": "listed_subsection",
+          "id": "C14.S06",
+          "page_group_end_exclusive": 136,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Tidal curves",
+          "start_page": 136,
+          "kind": "listed_subsection",
+          "id": "C14.S07",
+          "page_group_end_exclusive": 139,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Non-astronomical factors in tide movements",
+          "start_page": 139,
+          "kind": "listed_subsection",
+          "id": "C14.S08",
+          "page_group_end_exclusive": 142,
+          "shared_start": true,
+          "page_weight": 1.5,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "The essence of a tidal height question",
+          "start_page": 139,
+          "kind": "listed_subsection",
+          "id": "C14.S09",
+          "page_group_end_exclusive": 142,
+          "shared_start": true,
+          "page_weight": 1.5,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Using tidal height calculations safely",
+          "start_page": 142,
+          "kind": "listed_subsection",
+          "id": "C14.S10",
+          "page_group_end_exclusive": 143,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "number": 15,
+      "title": "Tidal streams",
+      "start_page": 143,
+      "end_page_exclusive": 150,
+      "pages": 7,
+      "listed_subsections": 3,
+      "first_pass_questions": 11,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Tidal gates",
+          "start_page": 143,
+          "kind": "listed_subsection",
+          "id": "C15.S01",
+          "page_group_end_exclusive": 144,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Tide-induced sea states",
+          "start_page": 144,
+          "kind": "listed_subsection",
+          "id": "C15.S02",
+          "page_group_end_exclusive": 150,
+          "shared_start": true,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Information on tidal streams",
+          "start_page": 144,
+          "kind": "listed_subsection",
+          "id": "C15.S03",
+          "page_group_end_exclusive": 150,
+          "shared_start": true,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "number": 16,
+      "title": "Traditional navigational inputs",
+      "start_page": 150,
+      "end_page_exclusive": 162,
+      "pages": 12,
+      "listed_subsections": 8,
+      "first_pass_questions": 18,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "The compass",
+          "start_page": 150,
+          "kind": "listed_subsection",
+          "id": "C16.S01",
+          "page_group_end_exclusive": 151,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Variation",
+          "start_page": 151,
+          "kind": "listed_subsection",
+          "id": "C16.S02",
+          "page_group_end_exclusive": 153,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Deviation",
+          "start_page": 153,
+          "kind": "listed_subsection",
+          "id": "C16.S03",
+          "page_group_end_exclusive": 156,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Heeling error",
+          "start_page": 156,
+          "kind": "listed_subsection",
+          "id": "C16.S04",
+          "page_group_end_exclusive": 159,
+          "shared_start": true,
+          "page_weight": 0.75,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Local magnetic anomalies",
+          "start_page": 156,
+          "kind": "listed_subsection",
+          "id": "C16.S05",
+          "page_group_end_exclusive": 159,
+          "shared_start": true,
+          "page_weight": 0.75,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Compass dip",
+          "start_page": 156,
+          "kind": "listed_subsection",
+          "id": "C16.S06",
+          "page_group_end_exclusive": 159,
+          "shared_start": true,
+          "page_weight": 0.75,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The log",
+          "start_page": 156,
+          "kind": "listed_subsection",
+          "id": "C16.S07",
+          "page_group_end_exclusive": 159,
+          "shared_start": true,
+          "page_weight": 0.75,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Depth",
+          "start_page": 159,
+          "kind": "listed_subsection",
+          "id": "C16.S08",
+          "page_group_end_exclusive": 162,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "number": 17,
+      "title": "The estimated position",
+      "start_page": 162,
+      "end_page_exclusive": 168,
+      "pages": 6,
+      "listed_subsections": 6,
+      "first_pass_questions": 9,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 162,
+          "kind": "opening",
+          "id": "C17.S01",
+          "page_group_end_exclusive": 163,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Leeway",
+          "start_page": 163,
+          "kind": "listed_subsection",
+          "id": "C17.S02",
+          "page_group_end_exclusive": 164,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Plotted vectors",
+          "start_page": 164,
+          "kind": "listed_subsection",
+          "id": "C17.S03",
+          "page_group_end_exclusive": 166,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The tide vector",
+          "start_page": 164,
+          "kind": "listed_subsection",
+          "id": "C17.S04",
+          "page_group_end_exclusive": 166,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The echo sounder",
+          "start_page": 166,
+          "kind": "listed_subsection",
+          "id": "C17.S05",
+          "page_group_end_exclusive": 168,
+          "shared_start": true,
+          "page_weight": 0.6666666666666666,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Plotting",
+          "start_page": 166,
+          "kind": "listed_subsection",
+          "id": "C17.S06",
+          "page_group_end_exclusive": 168,
+          "shared_start": true,
+          "page_weight": 0.6666666666666666,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The log book",
+          "start_page": 166,
+          "kind": "listed_subsection",
+          "id": "C17.S07",
+          "page_group_end_exclusive": 168,
+          "shared_start": true,
+          "page_weight": 0.6666666666666666,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "number": 18,
+      "title": "Classical position fixing",
+      "start_page": 168,
+      "end_page_exclusive": 180,
+      "pages": 12,
+      "listed_subsections": 5,
+      "first_pass_questions": 18,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "The eyeball fix and the position line",
+          "start_page": 168,
+          "kind": "listed_subsection",
+          "id": "C18.S01",
+          "page_group_end_exclusive": 171,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Sources of position line",
+          "start_page": 171,
+          "kind": "listed_subsection",
+          "id": "C18.S02",
+          "page_group_end_exclusive": 175,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Preplotting and use of ship’s heading",
+          "start_page": 175,
+          "kind": "listed_subsection",
+          "id": "C18.S03",
+          "page_group_end_exclusive": 176,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "The running fix",
+          "start_page": 176,
+          "kind": "listed_subsection",
+          "id": "C18.S04",
+          "page_group_end_exclusive": 180,
+          "shared_start": true,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Evaluation of fixes",
+          "start_page": 176,
+          "kind": "listed_subsection",
+          "id": "C18.S05",
+          "page_group_end_exclusive": 180,
+          "shared_start": true,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "number": 19,
+      "title": "Satellites and radar",
+      "start_page": 180,
+      "end_page_exclusive": 200,
+      "pages": 20,
+      "listed_subsections": 6,
+      "first_pass_questions": 30,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 180,
+          "kind": "opening",
+          "id": "C19.S01",
+          "page_group_end_exclusive": 181,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Global Positioning System (GPS)",
+          "start_page": 181,
+          "kind": "listed_subsection",
+          "id": "C19.S02",
+          "page_group_end_exclusive": 182,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Chart datums",
+          "start_page": 182,
+          "kind": "listed_subsection",
+          "id": "C19.S03",
+          "page_group_end_exclusive": 183,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Beyond the fix",
+          "start_page": 183,
+          "kind": "listed_subsection",
+          "id": "C19.S04",
+          "page_group_end_exclusive": 187,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 6
+        },
+        {
+          "title": "Electronic chart plotters",
+          "start_page": 187,
+          "kind": "listed_subsection",
+          "id": "C19.S05",
+          "page_group_end_exclusive": 194,
+          "shared_start": false,
+          "page_weight": 7.0,
+          "first_pass_questions": 9
+        },
+        {
+          "title": "Marine computers",
+          "start_page": 194,
+          "kind": "listed_subsection",
+          "id": "C19.S06",
+          "page_group_end_exclusive": 200,
+          "shared_start": true,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Radar",
+          "start_page": 194,
+          "kind": "listed_subsection",
+          "id": "C19.S07",
+          "page_group_end_exclusive": 200,
+          "shared_start": true,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "number": 20,
+      "title": "Course shaping",
+      "start_page": 200,
+      "end_page_exclusive": 207,
+      "pages": 7,
+      "listed_subsections": 4,
+      "first_pass_questions": 11,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 200,
+          "kind": "opening",
+          "id": "C20.S01",
+          "page_group_end_exclusive": 202,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Course to steer at the turn of the tide",
+          "start_page": 202,
+          "kind": "listed_subsection",
+          "id": "C20.S02",
+          "page_group_end_exclusive": 203,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "The longer passage",
+          "start_page": 203,
+          "kind": "listed_subsection",
+          "id": "C20.S03",
+          "page_group_end_exclusive": 205,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Leeway",
+          "start_page": 205,
+          "kind": "listed_subsection",
+          "id": "C20.S04",
+          "page_group_end_exclusive": 207,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Cross-tide sailing with GPS",
+          "start_page": 205,
+          "kind": "listed_subsection",
+          "id": "C20.S05",
+          "page_group_end_exclusive": 207,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "number": 21,
+      "title": "Navigational strategy",
+      "start_page": 207,
+      "end_page_exclusive": 214,
+      "pages": 7,
+      "listed_subsections": 9,
+      "first_pass_questions": 11,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Wind, tide, light and darkness",
+          "start_page": 207,
+          "kind": "listed_subsection",
+          "id": "C21.S01",
+          "page_group_end_exclusive": 208,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Wind shifts",
+          "start_page": 207,
+          "kind": "listed_subsection",
+          "id": "C21.S02",
+          "page_group_end_exclusive": 208,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Beating in water free of currents",
+          "start_page": 208,
+          "kind": "listed_subsection",
+          "id": "C21.S03",
+          "page_group_end_exclusive": 209,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The favoured tack",
+          "start_page": 208,
+          "kind": "listed_subsection",
+          "id": "C21.S04",
+          "page_group_end_exclusive": 209,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Unpredicted wind shifts",
+          "start_page": 209,
+          "kind": "listed_subsection",
+          "id": "C21.S05",
+          "page_group_end_exclusive": 210,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Anticipated wind shifts",
+          "start_page": 210,
+          "kind": "listed_subsection",
+          "id": "C21.S06",
+          "page_group_end_exclusive": 211,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Beating in a cross-current",
+          "start_page": 211,
+          "kind": "listed_subsection",
+          "id": "C21.S07",
+          "page_group_end_exclusive": 212,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Beating in a cross-tide",
+          "start_page": 211,
+          "kind": "listed_subsection",
+          "id": "C21.S08",
+          "page_group_end_exclusive": 212,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Tacking downwind",
+          "start_page": 212,
+          "kind": "listed_subsection",
+          "id": "C21.S09",
+          "page_group_end_exclusive": 214,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "number": 22,
+      "title": "Passage planning",
+      "start_page": 214,
+      "end_page_exclusive": 222,
+      "pages": 8,
+      "listed_subsections": 14,
+      "first_pass_questions": 16,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 214,
+          "kind": "opening",
+          "id": "C22.S01",
+          "page_group_end_exclusive": 215,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 0
+        },
+        {
+          "title": "Charts and overall distances",
+          "start_page": 215,
+          "kind": "listed_subsection",
+          "id": "C22.S02",
+          "page_group_end_exclusive": 216,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Alternative destinations",
+          "start_page": 215,
+          "kind": "listed_subsection",
+          "id": "C22.S03",
+          "page_group_end_exclusive": 216,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Waypoints",
+          "start_page": 216,
+          "kind": "listed_subsection",
+          "id": "C22.S04",
+          "page_group_end_exclusive": 217,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Waypoint lists",
+          "start_page": 216,
+          "kind": "listed_subsection",
+          "id": "C22.S05",
+          "page_group_end_exclusive": 217,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Passage planning with chart plotters",
+          "start_page": 217,
+          "kind": "listed_subsection",
+          "id": "C22.S06",
+          "page_group_end_exclusive": 218,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Weather",
+          "start_page": 218,
+          "kind": "listed_subsection",
+          "id": "C22.S07",
+          "page_group_end_exclusive": 219,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Tidal streams",
+          "start_page": 218,
+          "kind": "listed_subsection",
+          "id": "C22.S08",
+          "page_group_end_exclusive": 219,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Traffic Separation Schemes (TSS)",
+          "start_page": 219,
+          "kind": "listed_subsection",
+          "id": "C22.S09",
+          "page_group_end_exclusive": 220,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Tidal heights",
+          "start_page": 219,
+          "kind": "listed_subsection",
+          "id": "C22.S10",
+          "page_group_end_exclusive": 220,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Daylight",
+          "start_page": 219,
+          "kind": "listed_subsection",
+          "id": "C22.S11",
+          "page_group_end_exclusive": 220,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Fuel",
+          "start_page": 220,
+          "kind": "listed_subsection",
+          "id": "C22.S12",
+          "page_group_end_exclusive": 221,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Courses to steer",
+          "start_page": 220,
+          "kind": "listed_subsection",
+          "id": "C22.S13",
+          "page_group_end_exclusive": 221,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Tactics and strategy",
+          "start_page": 221,
+          "kind": "listed_subsection",
+          "id": "C22.S14",
+          "page_group_end_exclusive": 222,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Pilotage plan",
+          "start_page": 221,
+          "kind": "listed_subsection",
+          "id": "C22.S15",
+          "page_group_end_exclusive": 222,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "number": 23,
+      "title": "Pilotage",
+      "start_page": 222,
+      "end_page_exclusive": 230,
+      "pages": 8,
+      "listed_subsections": 4,
+      "first_pass_questions": 12,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 222,
+          "kind": "opening",
+          "id": "C23.S01",
+          "page_group_end_exclusive": 223,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Safe track",
+          "start_page": 223,
+          "kind": "listed_subsection",
+          "id": "C23.S02",
+          "page_group_end_exclusive": 226,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "Piloting with a plotter",
+          "start_page": 226,
+          "kind": "listed_subsection",
+          "id": "C23.S03",
+          "page_group_end_exclusive": 227,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Forward planning",
+          "start_page": 227,
+          "kind": "listed_subsection",
+          "id": "C23.S04",
+          "page_group_end_exclusive": 229,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Cockpit-mounted plotters",
+          "start_page": 229,
+          "kind": "listed_subsection",
+          "id": "C23.S05",
+          "page_group_end_exclusive": 230,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "number": 24,
+      "title": "Passage navigation",
+      "start_page": 230,
+      "end_page_exclusive": 240,
+      "pages": 10,
+      "listed_subsections": 4,
+      "first_pass_questions": 15,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 230,
+          "kind": "opening",
+          "id": "C24.S01",
+          "page_group_end_exclusive": 231,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The passage plan",
+          "start_page": 231,
+          "kind": "listed_subsection",
+          "id": "C24.S02",
+          "page_group_end_exclusive": 232,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "The passage without electronics",
+          "start_page": 232,
+          "kind": "listed_subsection",
+          "id": "C24.S03",
+          "page_group_end_exclusive": 235,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "The passage using GPS and a paper chart",
+          "start_page": 235,
+          "kind": "listed_subsection",
+          "id": "C24.S04",
+          "page_group_end_exclusive": 238,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "The passage with a plotter",
+          "start_page": 238,
+          "kind": "listed_subsection",
+          "id": "C24.S05",
+          "page_group_end_exclusive": 240,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "number": 25,
+      "title": "Domestics of a passage",
+      "start_page": 240,
+      "end_page_exclusive": 244,
+      "pages": 4,
+      "listed_subsections": 5,
+      "first_pass_questions": 7,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Food",
+          "start_page": 240,
+          "kind": "listed_subsection",
+          "id": "C25.S01",
+          "page_group_end_exclusive": 241,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Sleep",
+          "start_page": 241,
+          "kind": "listed_subsection",
+          "id": "C25.S02",
+          "page_group_end_exclusive": 242,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Warmth",
+          "start_page": 242,
+          "kind": "listed_subsection",
+          "id": "C25.S03",
+          "page_group_end_exclusive": 244,
+          "shared_start": true,
+          "page_weight": 0.6666666666666666,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Space",
+          "start_page": 242,
+          "kind": "listed_subsection",
+          "id": "C25.S04",
+          "page_group_end_exclusive": 244,
+          "shared_start": true,
+          "page_weight": 0.6666666666666666,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Seasickness",
+          "start_page": 242,
+          "kind": "listed_subsection",
+          "id": "C25.S05",
+          "page_group_end_exclusive": 244,
+          "shared_start": true,
+          "page_weight": 0.6666666666666666,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "number": 26,
+      "title": "Fog",
+      "start_page": 244,
+      "end_page_exclusive": 250,
+      "pages": 6,
+      "listed_subsections": 3,
+      "first_pass_questions": 9,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Maintain your plot",
+          "start_page": 244,
+          "kind": "listed_subsection",
+          "id": "C26.S01",
+          "page_group_end_exclusive": 245,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Fog seamanship",
+          "start_page": 245,
+          "kind": "listed_subsection",
+          "id": "C26.S02",
+          "page_group_end_exclusive": 246,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Fog tactics",
+          "start_page": 246,
+          "kind": "listed_subsection",
+          "id": "C26.S03",
+          "page_group_end_exclusive": 250,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C27",
+      "number": 27,
+      "title": "Collision avoidance in poor visibility",
+      "start_page": 250,
+      "end_page_exclusive": 264,
+      "pages": 14,
+      "listed_subsections": 7,
+      "first_pass_questions": 21,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Responsibility for lookout",
+          "start_page": 250,
+          "kind": "listed_subsection",
+          "id": "C27.S01",
+          "page_group_end_exclusive": 251,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "AIS",
+          "start_page": 251,
+          "kind": "listed_subsection",
+          "id": "C27.S02",
+          "page_group_end_exclusive": 254,
+          "shared_start": false,
+          "page_weight": 3.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Digital radar",
+          "start_page": 254,
+          "kind": "listed_subsection",
+          "id": "C27.S03",
+          "page_group_end_exclusive": 257,
+          "shared_start": true,
+          "page_weight": 1.5,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Display options",
+          "start_page": 254,
+          "kind": "listed_subsection",
+          "id": "C27.S04",
+          "page_group_end_exclusive": 257,
+          "shared_start": true,
+          "page_weight": 1.5,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Simple collision avoidance",
+          "start_page": 257,
+          "kind": "listed_subsection",
+          "id": "C27.S05",
+          "page_group_end_exclusive": 258,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "MARPA",
+          "start_page": 258,
+          "kind": "listed_subsection",
+          "id": "C27.S06",
+          "page_group_end_exclusive": 262,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Top tips for radar collision avoidance",
+          "start_page": 262,
+          "kind": "listed_subsection",
+          "id": "C27.S07",
+          "page_group_end_exclusive": 264,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        }
+      ]
+    },
+    {
+      "id": "C28",
+      "number": 28,
+      "title": "Tactics and navigation in heavy weather",
+      "start_page": 264,
+      "end_page_exclusive": 269,
+      "pages": 5,
+      "listed_subsections": 1,
+      "first_pass_questions": 8,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 264,
+          "kind": "opening",
+          "id": "C28.S01",
+          "page_group_end_exclusive": 265,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Navigation in poor conditions",
+          "start_page": 265,
+          "kind": "listed_subsection",
+          "id": "C28.S02",
+          "page_group_end_exclusive": 269,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 5
+        }
+      ]
+    },
+    {
+      "id": "C29",
+      "number": 29,
+      "title": "Damage control",
+      "start_page": 269,
+      "end_page_exclusive": 279,
+      "pages": 10,
+      "listed_subsections": 6,
+      "first_pass_questions": 15,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 269,
+          "kind": "opening",
+          "id": "C29.S01",
+          "page_group_end_exclusive": 270,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Tool kits and spare parts",
+          "start_page": 270,
+          "kind": "listed_subsection",
+          "id": "C29.S02",
+          "page_group_end_exclusive": 274,
+          "shared_start": false,
+          "page_weight": 4.0,
+          "first_pass_questions": 4
+        },
+        {
+          "title": "Fire prevention and fighting",
+          "start_page": 274,
+          "kind": "listed_subsection",
+          "id": "C29.S03",
+          "page_group_end_exclusive": 276,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Jury rigs",
+          "start_page": 274,
+          "kind": "listed_subsection",
+          "id": "C29.S04",
+          "page_group_end_exclusive": 276,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Ropes around the propeller",
+          "start_page": 276,
+          "kind": "listed_subsection",
+          "id": "C29.S05",
+          "page_group_end_exclusive": 278,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Steering failure",
+          "start_page": 276,
+          "kind": "listed_subsection",
+          "id": "C29.S06",
+          "page_group_end_exclusive": 278,
+          "shared_start": true,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Dismasting",
+          "start_page": 278,
+          "kind": "listed_subsection",
+          "id": "C29.S07",
+          "page_group_end_exclusive": 279,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    },
+    {
+      "id": "C30",
+      "number": 30,
+      "title": "Emergencies",
+      "start_page": 279,
+      "end_page_exclusive": 288,
+      "pages": 9,
+      "listed_subsections": 5,
+      "first_pass_questions": 14,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 279,
+          "kind": "opening",
+          "id": "C30.S01",
+          "page_group_end_exclusive": 280,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Lifeboat rescue",
+          "start_page": 280,
+          "kind": "listed_subsection",
+          "id": "C30.S02",
+          "page_group_end_exclusive": 281,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Helicopter rescue",
+          "start_page": 281,
+          "kind": "listed_subsection",
+          "id": "C30.S03",
+          "page_group_end_exclusive": 283,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 3
+        },
+        {
+          "title": "First on the scene",
+          "start_page": 283,
+          "kind": "listed_subsection",
+          "id": "C30.S04",
+          "page_group_end_exclusive": 284,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Taking to the liferaft",
+          "start_page": 284,
+          "kind": "listed_subsection",
+          "id": "C30.S05",
+          "page_group_end_exclusive": 286,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Pyrotechnics",
+          "start_page": 286,
+          "kind": "listed_subsection",
+          "id": "C30.S06",
+          "page_group_end_exclusive": 288,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C31",
+      "number": 31,
+      "title": "Man overboard",
+      "start_page": 288,
+      "end_page_exclusive": 295,
+      "pages": 7,
+      "listed_subsections": 4,
+      "first_pass_questions": 11,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "Opening material before first listed subsection",
+          "start_page": 288,
+          "kind": "opening",
+          "id": "C31.S01",
+          "page_group_end_exclusive": 289,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "The reach-turn-reach",
+          "start_page": 289,
+          "kind": "listed_subsection",
+          "id": "C31.S02",
+          "page_group_end_exclusive": 290,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Crash stop",
+          "start_page": 290,
+          "kind": "listed_subsection",
+          "id": "C31.S03",
+          "page_group_end_exclusive": 292,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Bringing the casualty aboard",
+          "start_page": 292,
+          "kind": "listed_subsection",
+          "id": "C31.S04",
+          "page_group_end_exclusive": 293,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 2
+        },
+        {
+          "title": "Search and rescue",
+          "start_page": 293,
+          "kind": "listed_subsection",
+          "id": "C31.S05",
+          "page_group_end_exclusive": 295,
+          "shared_start": false,
+          "page_weight": 2.0,
+          "first_pass_questions": 2
+        }
+      ]
+    },
+    {
+      "id": "C32",
+      "number": 32,
+      "title": "Weather",
+      "start_page": 295,
+      "end_page_exclusive": 305,
+      "pages": 10,
+      "listed_subsections": 16,
+      "first_pass_questions": 18,
+      "integration_questions": 2,
+      "sections": [
+        {
+          "title": "The frontal depression",
+          "start_page": 295,
+          "kind": "listed_subsection",
+          "id": "C32.S01",
+          "page_group_end_exclusive": 296,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Mutually exclusive air masses",
+          "start_page": 296,
+          "kind": "listed_subsection",
+          "id": "C32.S02",
+          "page_group_end_exclusive": 297,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Air circulation",
+          "start_page": 296,
+          "kind": "listed_subsection",
+          "id": "C32.S03",
+          "page_group_end_exclusive": 297,
+          "shared_start": true,
+          "page_weight": 0.5,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Depression formation",
+          "start_page": 297,
+          "kind": "listed_subsection",
+          "id": "C32.S04",
+          "page_group_end_exclusive": 298,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Depression tracks",
+          "start_page": 298,
+          "kind": "listed_subsection",
+          "id": "C32.S05",
+          "page_group_end_exclusive": 299,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Frontal anatomy",
+          "start_page": 299,
+          "kind": "listed_subsection",
+          "id": "C32.S06",
+          "page_group_end_exclusive": 300,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Occlusions",
+          "start_page": 300,
+          "kind": "listed_subsection",
+          "id": "C32.S07",
+          "page_group_end_exclusive": 301,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Secondary depressions",
+          "start_page": 301,
+          "kind": "listed_subsection",
+          "id": "C32.S08",
+          "page_group_end_exclusive": 302,
+          "shared_start": true,
+          "page_weight": 0.25,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Locating a low-pressure centre",
+          "start_page": 301,
+          "kind": "listed_subsection",
+          "id": "C32.S09",
+          "page_group_end_exclusive": 302,
+          "shared_start": true,
+          "page_weight": 0.25,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Wind strengths in depressions",
+          "start_page": 301,
+          "kind": "listed_subsection",
+          "id": "C32.S10",
+          "page_group_end_exclusive": 302,
+          "shared_start": true,
+          "page_weight": 0.25,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Cyclonic winds",
+          "start_page": 301,
+          "kind": "listed_subsection",
+          "id": "C32.S11",
+          "page_group_end_exclusive": 302,
+          "shared_start": true,
+          "page_weight": 0.25,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Depressions in the southern hemisphere",
+          "start_page": 302,
+          "kind": "listed_subsection",
+          "id": "C32.S12",
+          "page_group_end_exclusive": 303,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "High pressure",
+          "start_page": 302,
+          "kind": "listed_subsection",
+          "id": "C32.S13",
+          "page_group_end_exclusive": 303,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Fog",
+          "start_page": 302,
+          "kind": "listed_subsection",
+          "id": "C32.S14",
+          "page_group_end_exclusive": 303,
+          "shared_start": true,
+          "page_weight": 0.3333333333333333,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Sea breezes",
+          "start_page": 303,
+          "kind": "listed_subsection",
+          "id": "C32.S15",
+          "page_group_end_exclusive": 304,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        },
+        {
+          "title": "Significant local winds",
+          "start_page": 304,
+          "kind": "listed_subsection",
+          "id": "C32.S16",
+          "page_group_end_exclusive": 305,
+          "shared_start": false,
+          "page_weight": 1.0,
+          "first_pass_questions": 1
+        }
+      ]
+    }
+  ]
+}
