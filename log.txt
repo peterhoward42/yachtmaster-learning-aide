@@ -2,9 +2,12 @@ yachting
 
 o  do a new section
 	*  build a content map and density map
-	o  choose addressing and move / rename first pass accordingly
+	*  choose addressing and move / rename first pass accordingly
 	o  make next section stab for a similar sized subsection elsewhere
-
+		*  efficient sailing
+		o  tackle it
 
 Read /Users/pete/repos/yachtmaster-learning-aide
-Then assess my answers to your questions in aids-to-navigation-experiment-01.md
+Then assess my answers to your questions in questions/cunliffe-10e-c13-aids-to-navigation-questions.md
+
+Read /Users/pete/repos/yachtmaster-learning-aide then compose a starter set of questions for the efficient sailing chapter.

@@ -36,5 +36,5 @@ Use the following prompt, replacing the question filename for a different sessio
 
 ```text
 Read /Users/pete/repos/yachtmaster-learning-aide
-Then assess my answers to your questions in aids-to-navigation-experiment-01.md
+Then assess my answers to your questions in questions/cunliffe-10e-c13-aids-to-navigation-questions.md
 ```
