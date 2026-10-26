@@ -26,7 +26,7 @@ C. Rudder drag is unaffected by rudder angle, so the improvement must come entir
 
 D. A displacement yacht always reaches its highest speed with the smallest available sail plan.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ## Shaping the headsail — C03.S02
 
@@ -42,7 +42,7 @@ C. Tighten the mainsail outhaul.
 
 D. Ease the headsail sheet slightly and watch whether both telltales stream.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ### 3. Reading the sail from top to bottom
 
@@ -56,7 +56,7 @@ C. Leave the lead alone and use only the mainsail traveller to alter the genoa�
 
 D. Move the sheet lead aft because this increases the downward component of sheet tension.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ### 4. Forestay sag
 
@@ -70,7 +70,7 @@ C. It makes the headsail flatter, helping reduce power as the breeze builds.
 
 D. It reduces headsail area in the same way as rolling part of the sail away.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ## Shaping the mainsail — C03.S03
 
@@ -78,7 +78,7 @@ D. It reduces headsail area in the same way as rolling part of the sail away.
 
 On a conventional mainsail with a working outhaul, what happens to the depth of the **lower part of the sail** when you tighten the outhaul? Why might that help when the yacht is becoming overpowered?
 
-**My answer (one or two sentences):**
+**My answer (one or two sentences):**  The depth on the lower part is reduced. I.e. the sail is flattened in that area. That reduces the power of the sail.
 
 ### 6. Twist on a reach
 
@@ -92,7 +92,7 @@ C. Tighten the headsail halyard.
 
 D. Raise the boom with the topping lift.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ## Sail combinations — C03.S04
 
@@ -108,7 +108,7 @@ C. The yacht must have developed a steering-system fault at the moment you reefe
 
 D. The combined sail force may have moved too far forward; the headsail size and the balance of the whole sail plan need reassessment.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ### 8. One genoa for every wind strength?
 
@@ -122,7 +122,7 @@ C. Roller furling preserves the original sail shape regardless of how much sail 
 
 D. A smaller headsail removes the need to assess mainsail area or balance.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ## Hull balance — C03.S05
 
@@ -138,7 +138,7 @@ C. Weather helm; holding course with a large opposing rudder angle adds drag and
 
 D. Leeway; it can be corrected only by changing the compass course.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ### 10. Sail balance and heel
 
@@ -152,7 +152,7 @@ C. Hull shape matters only when motoring.
 
 D. More rudder angle always improves sailing efficiency, so no adjustment is needed.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ## Shortening sail — C03.S06
 
@@ -168,7 +168,7 @@ C. Wait until the crew are struggling to handle the reefing gear.
 
 D. Shorten sail while the boat and crew remain manageable, then reassess trim and balance.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ## ‘Code zero’ sails — C03.S07
 
@@ -184,7 +184,7 @@ C. A sail designed to work only when sailing directly downwind.
 
 D. A sail that guarantees close-hauled performance equal to a working jib at every wind strength.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ## Cruising chutes — C03.S08
 
@@ -200,7 +200,7 @@ C. Near dead downwind, the mainsail blankets the chute; heading up brings it int
 
 D. A cruising chute is intended only for close-hauled sailing.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ## Integration
 
@@ -216,7 +216,7 @@ C. Keep the change because additional rudder angle cannot affect performance.
 
 D. Judge solely by how smooth the sail looks, regardless of the yacht’s response.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ### 15. Faster towards the destination?
 
@@ -224,7 +224,7 @@ In steady conditions with no tidal stream, you compare two balanced, controllabl
 
 What quantity would you compare to decide which setting makes better progress towards the destination? Why can neither pointing angle nor boat speed alone settle the question? No calculation is required.
 
-**My answer (two or three sentences):**
+**My answer (two or three sentences):** Compare distance nearer to destination over ground after a timed interval. Pointing angle and boat speed in this situation are trade-offs.
 
 ## Source notes for question design
 

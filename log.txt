@@ -3,9 +3,8 @@ yachting
 o  do a new section
 	*  build a content map and density map
 	*  choose addressing and move / rename first pass accordingly
-	o  make next section stab for a similar sized subsection elsewhere
-		*  efficient sailing
-		o  tackle it
+	*  make next section stab for a similar sized subsection elsewhere
+	o  work through making more sections
 
 Read /Users/pete/repos/yachtmaster-learning-aide
 Then assess my answers to your questions in questions/cunliffe-10e-c13-aids-to-navigation-questions.md
