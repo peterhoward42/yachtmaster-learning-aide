@@ -26,7 +26,7 @@ C. Easing the mainsheet directly increases the yacht’s momentum.
 
 D. A yacht cannot slow unless its bow points exactly into the wind.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ### 2. Learning the stopping distance
 
@@ -40,7 +40,7 @@ C. Make the first speed-control trial within a boat length of the buoy.
 
 D. Rehearse the intended approach heading and sail plan in clear water, observing how she slows, accelerates and steers.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ## Wind awareness — C05.S02
 
@@ -56,7 +56,7 @@ C. Boat speed and steerage will remain unchanged when the sail loses its drive.
 
 D. The masthead wind indication outside the shelter establishes the wind throughout the approach.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ## Tide awareness — C05.S03
 
@@ -66,7 +66,7 @@ In a steady tidal stream of two knots, your yacht points directly into the strea
 
 Explain why the rudder can still provide steering control although the yacht makes no progress over the ground. Which speed matters most when judging how quickly you are closing a fixed buoy?
 
-**My answer (two or three sentences):**
+**My answer (two or three sentences):** The boat is still sailing in this situation. The boat is moving through water and there is water passing over the rudder. The position relative to the buoy is unchanging because the sailing way of the boat is compensated by the the body of water she is sailing moving the opposite way at the same rate. The speed that matters and provides governance is the speed at which the boat is closing the buoy.
 
 ## Sailing slowly — C05.S04
 
@@ -82,7 +82,7 @@ C. Ease or trim the sheet progressively, watching the yacht’s response and ret
 
 D. Let the yacht lose all steerage immediately, then rely on the rudder to bring her to the buoy.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ### 6. Too slow to turn
 
@@ -96,7 +96,7 @@ C. The rudder acts on speed over the ground rather than movement through the wat
 
 D. A large helm angle guarantees the same turning force regardless of water speed.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ## Mooring under sail — C05.S05
 
@@ -110,9 +110,9 @@ B. Approaching into the tide guarantees that the yacht cannot overrun the buoy.
 
 C. Keep both sails fully drawing because the tide will provide all necessary speed control.
 
-D. Test a suitable reduced sail plan and approach in clear water first; a following wind may keep the main driving even with its sheet eased, so lowering it and using a controllable headsail may be more suitable.
+D. Test a suitable reduced sail plan and approach in clear water first; a following wind may keep the main driving even with its sheet eased, so lowering it and using a controllable headsail may be more suitable. 
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ### 8. Briefing the bow crew
 
@@ -126,7 +126,7 @@ C. Tell the crew to hold the yacht’s full weight by hand if the pickup line co
 
 D. Leave the securing line unprepared until the buoy is within reach, to avoid distracting the crew.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ### 9. Missing the pickup
 
@@ -140,7 +140,7 @@ C. Abandon the pickup, keep clear of the tackle and sail away on the escape rout
 
 D. Ask the crew to use the boat hook to arrest the yacht’s movement against the buoy.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ## Anchoring — C05.S06
 
@@ -156,7 +156,7 @@ C. Only the amount of mainsheet to ease; the anchor will compensate for any rema
 
 D. A plan to release the anchor at cruising speed so it can stop the yacht immediately.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ### 11. Has the anchor held?
 
@@ -170,7 +170,7 @@ C. The sails are down and the deck is quiet.
 
 D. Repeated position checks against fixed references show the yacht remaining within an expected swinging area as the anchor takes load.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ## Berthing — C05.S07
 
@@ -186,7 +186,7 @@ C. Enter because a yacht that can reach the fairway entrance must also be able t
 
 D. Rely on the crew pushing off neighbouring boats to control the final approach.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ## Integration
 
@@ -202,7 +202,7 @@ C. Sail clear and reassess the approach and sail plan, testing that you can cont
 
 D. Continue and ask the pickup crew to stop the yacht with the mooring line.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ### 14. Turning a plan into a controlled manoeuvre
 
@@ -210,7 +210,7 @@ In moderate wind, you plan to pick up a mooring under sail in an unfamiliar tida
 
 Name three things you would establish before committing: one about wind and tide, one about the yacht’s speed control, and one about what you will do if the pickup fails. Explain briefly how each affects your plan. Exact courses and line-handling sequences are not required.
 
-**My answer (three short points):**
+**My answer (three short points):** Work out if the mooring dynamics are best characterised as wind with tide, or vice versa or that tide is neglible. Having decided, based on those priors decide which approach direction is best, and thence which sail plan. Then try our the effectiveness of sheeting to control speed up or down thus. Also plan an exit route if the pickup fails consistent with the known constraints. 
 
 ## Source notes for question design
 

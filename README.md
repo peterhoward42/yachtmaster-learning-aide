@@ -143,6 +143,40 @@ A possible starting distribution for a 20-question chapter bank:
 
 These proportions are provisional and should vary with the subject.
 
+### Question quality: require subject knowledge
+
+The boat-handling-under-sail experiment exposed a weakness in the starter questions: many correct answers could be identified from common sense or sentence construction without understanding the sailing. The correct option often sounded organised, responsible and appropriately cautious, while the alternatives sounded reckless or made implausible absolute claims. A high score on such a set provides limited evidence of subject understanding.
+
+Use this design test:
+
+> Would someone who has studied this chapter, or acquired equivalent sailing knowledge, have a clear advantage over an intelligent reader relying only on common sense and clues in the wording?
+
+The aim is to test learning from the chapter, without requiring recall of the author's wording or obscure details merely to make questions difficult. When only chapter headings are available, label questions as topic-based; do not claim that answering them demonstrates understanding of the chapter's actual treatment.
+
+#### Design rules
+
+- **Identify the knowledge being tested first.** For each question, be able to state the specific principle, relationship, technique or essential fact needed to answer it. If the deciding principle is only “be careful”, “prepare properly” or “brief the crew”, develop the question further.
+- **Make the alternatives compete on sailing substance.** Use plausible errors in cause and effect, sail choice, sequence, geometry or interpretation. Each incorrect option should represent a recognisable misunderstanding, rather than an obviously foolish action. Do not invent misleading technical claims simply to fill four slots; use fewer options or a written question when necessary.
+- **Remove wording clues.** Keep options comparable in length, detail, grammatical construction and tone. Do not make the correct answer the only qualified statement, the only comprehensive plan or the only one containing words such as “controlled”, “suitable” or “reassess”. Avoid using “always” and “never” mainly to make incorrect options easy to reject. Vary correct-answer positions without a predictable pattern.
+- **Put shared good practice in the scenario.** If all competent approaches involve preparation, a crew briefing and an escape route, establish those as already done. Ask which specific action or interpretation fits the conditions. Good organisation matters, but selecting the only organised-sounding option does not demonstrate knowledge of how to organise this manoeuvre.
+- **Make judgement depend on conditions.** Compare credible choices whose suitability turns on a stated detail. Ask what that detail changes, what observation would distinguish two explanations, or what would cause a different choice. More caution is not automatically the best answer; the action must address the actual situation, including any consequences of delay.
+- **Use short written answers when recognition is too easy.** Ask for a prediction and its cause, a choice and its deciding reason, or the consequence of changing one condition. A sentence or two should normally suffice. Do not replace easy multiple choice with long essays or unnecessary working-memory demands.
+- **Keep difficulty in the sailing.** State enough assumptions for one best answer, use plain language, and avoid trick wording, hidden conditions and obscure trivia. If two choices remain defensible, clarify the scenario or use an open question that accepts supported alternatives.
+
+#### Review before adding a question
+
+1. **Knowledge check:** What specific subject knowledge separates the intended answer from its strongest alternative?
+2. **Common-sense check:** Could an intelligent non-sailor probably answer correctly without that knowledge? If so, revise it or retain it explicitly as an introductory check, rather than evidence of deeper understanding.
+3. **Wording check:** Read the options without the scenario. Does one stand out as longer, more measured, more responsible or more complete? Remove that cue.
+4. **Alternative check:** Explain why each incorrect option is tempting and exactly which stated condition or principle rules it out. Check that only one answer is best under the stated assumptions.
+5. **Transfer check:** Across the set, include variations where a changed condition changes the answer, so that repeating a familiar slogan is insufficient.
+
+For example, replace “Should you prepare, brief the crew and plan an escape, or continue unprepared?” with a question where those preparations are complete and the learner must predict how a specified change in wind angle affects the ability to depower a sail. Use similarly concise predictions for all options, or ask for a short explanation without providing options.
+
+Some straightforward foundation checks remain useful, but a chapter set should predominantly require the chapter's subject knowledge. Do not treat an easy score as strong evidence of understanding when the questions themselves supplied shortcuts. Apply these rules to future sets and when existing sets are revised; the original starter banks have not yet been brought up to this standard.
+
+The [question-shaping guide](question-shaping-guide.md) records further current preferences, including no confidence ratings and no persistent assessment outcomes.
+
 ## 5. Scenario-based learning
 
 A particularly important component will be realistic, evolving sailing scenarios.
