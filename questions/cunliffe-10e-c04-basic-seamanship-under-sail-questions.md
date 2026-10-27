@@ -26,7 +26,7 @@ C. Put the helm hard over and hold it there regardless of boat speed or heading.
 
 D. Sheet the new headsail fully home before the bow reaches head to wind.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ### 2. Releasing the old sheet
 
@@ -38,7 +38,7 @@ B. Releasing the old sheet changes which side of the mainsail the wind reaches.
 
 C. The old sheet must be released to make the rudder turn the opposite way.
 
-D. Keeping it tight can hold the headsail aback, opposing completion of the tack and loading the sail and sheet.
+D. Keeping it tight can hold the headsail aback, opposing completion of the tack and loading the sail and sheet. D
 
 **My answer (A–D):**
 
@@ -56,7 +56,7 @@ C. Ask a crew member to stand in the boom’s path and catch it.
 
 D. Release the kicking strap completely and let the boom find its own height during the turn.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ### 4. An unstable downwind course
 
@@ -70,7 +70,7 @@ C. Alter onto a broad reach with a clearer margin from the gybe, and trim for th
 
 D. Tighten the headsail halyard while keeping the same course.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ## Poling out a genoa — C04.S03
 
@@ -86,7 +86,7 @@ C. They prevent the yacht from yawing in a following sea.
 
 D. They remove the need to check that the pole and fittings suit the loads.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ### 6. A course change with the genoa poled out
 
@@ -100,7 +100,7 @@ C. Keep the pole in place and use a faster turn to carry the sail around the for
 
 D. Brief the crew and unload and clear the poled-out arrangement in a controlled way before making the tack.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ## Painless sail reduction — C04.S04
 
@@ -116,7 +116,7 @@ C. Wait for the first uncontrolled round-up to confirm the forecast.
 
 D. Send the crew to the mast now but postpone explaining their tasks until the turn at the headland.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ### 8. A loaded mainsail
 
@@ -130,7 +130,7 @@ C. Establish a controlled heading and trim that unload the mainsail, with the bo
 
 D. Tighten the mainsheet further to hold the sail still against the reefing line.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ## Heaving to — C04.S05
 
@@ -138,7 +138,7 @@ D. Tighten the mainsheet further to hold the sail still against the reefing line
 
 On a yacht that heaves to conventionally, a backed headsail tends to push the bow away from the wind, while the helm is set to encourage the yacht to turn towards it. Explain briefly how this can produce a relatively settled attitude. Why must the skipper still monitor the yacht’s movement and clearance from hazards?
 
-**My answer (two or three sentences):**
+**My answer (two or three sentences):** The backed headsail causes the yacht to bear away, which causes the main sail to draw and drive the yacht forward, which allows the help setting to point it back up again. Thus created a slightly iterative stable equilibriumn. It requires observation because if it bears away too much it gives the mainsail too much forward drive to maintain the slow, parking-like equilibrium.
 
 ## Reefing — C04.S06
 
@@ -154,7 +154,7 @@ C. The intermediate reef points replace the need to secure the reef clew.
 
 D. Tightening every intermediate tie can compensate for an unsecured reef tack.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ### 11. Checking the result
 
@@ -168,7 +168,7 @@ C. Whether the yacht’s compass has been affected by the sail reduction.
 
 D. Whether the reef clew line’s lead and tension provide the required aft pull as well as downward pull.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ## Single-line reefing — C04.S07
 
@@ -184,7 +184,7 @@ C. The tack can be left high because single-line systems load only the clew.
 
 D. More winch force is the appropriate first response to any resistance in this system.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ## In-mast mainsails — C04.S08
 
@@ -200,7 +200,7 @@ C. Stop forcing the system, keep the yacht controlled, and investigate the sail�
 
 D. Tighten the mainsheet fully and continue furling under greater sail load.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ## In-boom mainsails — C04.S09
 
@@ -216,7 +216,7 @@ C. The correct angle is identical for every in-boom system, so the instructions 
 
 D. Once the boom angle is set, the halyard can always be released without control.
 
-**My answer (A–D):**
+**My answer (A–D):** B
 
 ## Headsail changes — C04.S10
 
@@ -232,7 +232,7 @@ C. The large genoa becomes easier to lower and contain as the wind strengthens.
 
 D. Lower sail loads and more manageable deck conditions make it easier to control the sail and reduce the crew’s exposure during the change.
 
-**My answer (A–D):**
+**My answer (A–D):** D
 
 ### 16. Where will the sail go?
 
@@ -246,7 +246,7 @@ C. A sail overboard can always be recovered simply by hauling harder on the haly
 
 D. Lowering the sail automatically removes all wind and water loads from it.
 
-**My answer (A–D):**
+**My answer (A–D):** A
 
 ## Integration
 
@@ -262,15 +262,15 @@ C. Establish a larger margin of sea room before pausing, then monitor drift and 
 
 D. Heave to immediately and leave the helm unattended until the change is complete.
 
-**My answer (A–D):**
+**My answer (A–D):** C
 
 ### 18. Planning a gybe with a preventer
 
 You are broad-reaching with a boom preventer rigged. You intend to gybe in clear water. A crew member suggests leaving the preventer secured throughout the turn because it stops the boom moving unexpectedly.
 
-What is wrong with that plan? Describe how you would coordinate control of the boom, handling of the preventer and crew positioning before and during the gybe. Exact line routing is not required.
+What is wrong with that plan? Describe how you would coordinate control of the boom, handling of the preventer and crew positioning before and during the gybe. Exact line routing is not required. 
 
-**My answer (two or three sentences):**
+**My answer (two or three sentences):** The preventer limits excessive boom movement inwards towards the centreline of the boat. So leaving it in place for a planned gybe would prevent the boom passing across the boat to the other side as planned during the gybe.
 
 ## Source notes for question design
 
