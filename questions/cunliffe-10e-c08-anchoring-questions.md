@@ -25,7 +25,7 @@ B. Its buried working surfaces engage the seabed and mobilise resistance from th
 
 C. Its shank presses against the chain, whose friction supplies most of the resistance.
 
-**My answer (A–C):**
+**My answer (A–C):** B
 
 ## Holding ground — C08.S02
 
@@ -39,7 +39,7 @@ B. Sand keeps all the cable on the bottom; rock lifts all the cable clear of it.
 
 C. Sand prevents the yacht swinging; weed allows her to swing across the anchor.
 
-**My answer (A–C):**
+**My answer (A–C):** A
 
 ### 3. A reassuring snag?
 
@@ -47,19 +47,19 @@ An anchor on a rocky bottom stops the yacht abruptly during a setting attempt. W
 
 **My answer:**
 
-## Types of anchor — C08.S03
+## Types of anchor — C08.S03 Snagging on a rock might have stopped it, and that cannot be depended on if the direction of pull changes.
 
 ### 4. Two anchors of equal mass
 
 Two anchors weigh the same but have different fluke areas and geometries. Someone concludes that they must have equal holding power in soft mud. What is missing from that comparison? Name two design or seabed-interaction factors that matter.
 
-**My answer:**
+**My answer:** I have insufficient knowledge on this one. I know that Danforth style anchors for example are optimised to dig into a soft seabed but unsuitable for a rocky bottom. But I don't know how to characterise the suitability of the other types such as grapnel and fisherman's for example. I believe the primary ground conditions to consider are sand, mud, rock, weed coverage and the likelyhood of wreckage on the bottom.
 
 ### 5. A second job for the spare
 
 You are comparing a broad-fluked, flat-stowing anchor and a bulkier plough-type anchor as a spare that may also be carried out in the dinghy as a kedge. Both are appropriately sized and have suitable holding performance in the expected seabed. Why might the flat-stowing design be attractive for this job? Name one deployment or recovery limitation you would still check before choosing it.
 
-**My answer:**
+**My answer:** Please educate me on this one
 
 ## Types of cable — C08.S04
 
@@ -73,13 +73,13 @@ B. Elastic extension in the load path, reducing abrupt loading as the yacht move
 
 C. Extra fluke area on the seabed, increasing the anchor’s resistance to breakout.
 
-**My answer (A–C):**
+**My answer (A–C):** C
 
 ### 7. Rope over an edge
 
 A rope-and-chain rode has adequate nominal strength, but its rope section repeatedly rubs on a sharp bow fitting as the yacht yaws. Why is breaking strength alone an inadequate assessment? Give one alteration that addresses the failure mechanism.
 
-**My answer:**
+**My answer:** The rope will chafe and become progressively weaker. Ensure the rope is led through a purpose designed, smooth anchor roller.
 
 ## Weighting the cable — C08.S05
 
@@ -93,13 +93,13 @@ B. Sag increases, and the pull at the anchor becomes more nearly horizontal.
 
 C. Sag stays unchanged, because chain weight fixes its shape independently of load.
 
-**My answer (A–C):**
+**My answer (A–C):** A
 
 ### 9. A weight instead of more room?
 
 A crew proposes adding a weight partway down the cable so they can use very short scope during a gale. Explain why a weight can help cable geometry in moderate loads yet fail to provide the same protection when the cable is pulled nearly straight. Do not assume it substitutes for adequate scope.
 
-**My answer:**
+**My answer:** The holding ability is a function of tension vector direction in the chain, if the cable is pulled nearly straight the weight will rise away from the sea bed and steepen the holding vector.
 
 ## Selecting an anchorage — C08.S06
 
@@ -109,7 +109,7 @@ At arrival the actual water depth is 4.8 m. The tide will fall another 2.1 m bef
 
 What will the clearance be at low water, and does this position meet your chosen minimum?
 
-**My answer (calculation and conclusion):**
+**My answer (calculation and conclusion):** 0.8m. Does not satisfy chosen min of 1.0.
 
 ### 11. The lee changes sides
 
@@ -121,7 +121,7 @@ B. The bay remains equally sheltered, but the anchor will carry its load on the 
 
 C. Waves can enter the bay, and dragging downwind would take the yacht towards its western shore.
 
-**My answer (A–C):**
+**My answer (A–C):** C
 
 ## Laying an anchor — C08.S07
 
@@ -135,7 +135,7 @@ B. To make the anchor fall faster through the remaining water beneath it.
 
 C. To keep the cable vertical until the final length has been secured.
 
-**My answer (A–C):**
+**My answer (A–C):** A
 
 ### 13. Scope through the tide
 
@@ -143,7 +143,7 @@ The water is 5 m deep when you anchor and will rise by 3 m. The bow roller is 1 
 
 How much cable does that require? What would the high-water scope be if someone instead paid out five times the arrival water depth, ignoring the roller height?
 
-**My answer (two calculations):**
+**My answer (two calculations):** Height from sea bed to roller will be 9m. 5:1 scope requires 5 * 9 outboard of the roller (45). Giving total of 9 + 45 = 54m.
 
 ### 14. Set or still moving?
 
@@ -155,7 +155,7 @@ B. The yacht is still translating over the ground; tension alone does not establ
 
 C. A separating transit establishes that the cable is too long; shortening it will confirm the set.
 
-**My answer (A–C):**
+**My answer (A–C):** B
 
 ## Weighing anchor — C08.S08
 
@@ -169,13 +169,13 @@ B. Keep the yacht stationary with the engine while the windlass shortens the loa
 
 C. Manoeuvre the yacht towards the anchor with the engine while recovering the resulting slack.
 
-**My answer (A–C):**
+**My answer (A–C):** C (Although I don't know how you judge the synchronisation between slack and position?)
 
 ### 16. Nearly straight up and down
 
 During recovery the cable becomes nearly vertical and the anchor remains firmly buried. Why can bringing the pull upwards help break out an anchor that resisted a largely horizontal pull? Once it breaks out, what restraint on the yacht has disappeared?
 
-**My answer:**
+**My answer:** Anchors are designed to settle and to provide holding force when they are being pull horizontally where the cable attaches. As the cable steepens it tips the anchor which progressively releases its holding force. But a loaded anchor can become deeply buried in use and sometimes needs an extra tug to unbury it. Before the anchor breaks out the boat is free to swing around the anchor point or go nearer to it, but it cannot move in any other direction. Once the anchor is out it is free to motor,sail or drift in any direction.
 
 ## Fouled anchors — C08.S09
 
@@ -189,13 +189,13 @@ B. Increase the anchor’s fluke area so it can lift the obstruction with less f
 
 C. Transfer the pull into the seabed so the normal cable becomes easier to stretch.
 
-**My answer (A–C):**
+**My answer (A–C):** A
 
 ### 18. Whose cable is coming up?
 
-While recovering your anchor you lift a heavy, unidentified cable off the seabed. Why is increasing windlass power an unsuitable next step? State the immediate load-management priority and explain why releasing or cutting the unidentified cable is not a routine remedy.
+While recovering your anchor you lift a heavy, unidentified cable off the seabed. Why is increasing windlass power an unsuitable next step? State the immediate load-management priority and explain why releasing or cutting the unidentified cable is not a routine remedy. 
 
-**My answer (two short points):**
+**My answer (two short points):** I simply have not learned about this topic - so please educate me with a short summary.
 
 ## Anchoring stern- or bow-to — C08.S10
 
@@ -203,7 +203,7 @@ While recovering your anchor you lift a heavy, unidentified cable off the seabed
 
 A yacht lies stern-to a quay, with stern lines ashore and her bow anchor laid offshore. The quay is behind her. Which component primarily opposes movement **astern towards the quay**, and which primarily opposes movement **ahead away from it**? Explain using the direction in which each can pull.
 
-**My answer:**
+**My answer:** The stern lines made fast to the quay limit movement offshore. The bow anchor cable limits movement towards the quay.
 
 ## Kedging off — C08.S11
 
@@ -211,7 +211,7 @@ A yacht lies stern-to a quay, with stern lines ashore and her bow anchor laid of
 
 A yacht is lightly aground on a gently shelving sandbank. Deeper water is directly to port. A suitable kedge can be placed securely in the deeper water, and the yacht’s fittings allow a safe hauling lead towards it. Why does placing the kedge to port offer a more useful hauling direction than placing it directly ahead along the same depth contour? If the yacht is heeled, what additional effect of the hauling lead on heel and effective draught would you need to consider?
 
-**My answer:**
+**My answer:** I am making the assumption that the deeper water is part of the same topology as the shelving sandbank. The port side haul then, will move the boat off the shelving surface it is aground on. Whereas a directly ahead anchor would be attempting to drag the boat along the sandbank at its current depth and thus stay approximately aground.
 
 ## Storm anchoring — C08.S12
 
@@ -219,7 +219,7 @@ A yacht is lightly aground on a gently shelving sandbank. Deeper water is direct
 
 A crew proposes laying two anchors on separate bow rodes in a wide V before a storm. They expect each anchor to carry half the load throughout, including a major wind shift. Why is that assumption unreliable? Explain how changing load direction can alter which rode is loaded and how a reversal can complicate the arrangement.
 
-**My answer (two or three sentences):**
+**My answer (two or three sentences):** The initially set wide vee will only reliably remain a Vee for as long as the wind direction stays roughly the same. In the pathalogical case the wind might change by 90 degrees. In this case as a rough approximitaton the boat will load only one of the rode's while the other remains effectively slack. If the wind direction reverses completely. Theoretically the boat will eventually lie in a Vee in the opposite direction. But the transition would pass through the problematic cases to get there, and the rodes would need to cross each other - and could become entangled.
 
 ## Integration
 
@@ -229,7 +229,7 @@ Your bow roller is 8 m above a level seabed. You deploy 40 m of cable; the yacht
 
 Use **cable length plus yacht length** as a conservative upper-bound estimate of swing radius; do not try to calculate catenary. Does that estimate establish clearance? Why could paying out more cable improve one part of the anchoring arrangement while worsening another?
 
-**My answer (calculation and explanation):**
+**My answer (calculation and explanation):** Don't know - please educate me on that one.
 
 ### 23. Swinging or dragging?
 
@@ -237,7 +237,7 @@ After a wind shift, the yacht moves to a different part of her recorded swing ci
 
 Which part of that movement could occur with a stationary anchor, and which suggests dragging? Give one independent observation you would use to check the interpretation. Assume position-fix accuracy is sufficient to distinguish the movements described.
 
-**My answer:**
+**My answer:** The wind shift will make the boat within her recorded swing cycle to sit to the new downwind of the anchor. The successive position fixes moving steadily downwind arises from the anchor dragging. An independent observation could be made by observing a transit - which has a downwind component.
 
 ## Source and design notes
 
