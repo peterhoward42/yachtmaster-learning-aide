@@ -10,3 +10,7 @@ Read /Users/pete/repos/yachtmaster-learning-aide
 Then assess my answers to your questions in questions/cunliffe-10e-c13-aids-to-navigation-questions.md
 
 Read /Users/pete/repos/yachtmaster-learning-aide then compose a starter set of questions for the efficient sailing chapter.
+
+This question is about Tom Cunliffe's The Complete Yachtmaster . Specifically if you can find out what
+scope the chapter entitled "Navigation – an introduction" has? I'm looking for a simple breakdown into
+topics on which to design some questions for someone who has read just this chapter.
